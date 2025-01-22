@@ -123,6 +123,7 @@ text-align: center;
   margin-top: var(--sp-1400);
   justify-content: center;
 }
+
 .grid-item-2{
   position: relative;
   width: 730px;
