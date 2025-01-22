@@ -352,8 +352,13 @@ position: relative;
     right: 5%;
   }
 }
+@media (max-width:56.25em) {
+  .header_container{
+    background-position: left -45% top 20%, right -15% top 35%;
+  }
+}
 
-@media (max-width: 48.125em){
+@media (max-width: 43.688em){
 
   /* Header Section */
 
